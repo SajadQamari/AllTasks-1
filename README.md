@@ -1,16 +1,41 @@
-# redo
+# AllTask
 
-A new Flutter project.
+# Brilliant Project Management Tool
 
-## Getting Started
+manage your projects like pros
 
-This project is a starting point for a Flutter application.
+---
+<p float='left'>
+<img src="UI_UX/homeScreen.png" width="200" /> 
+<img src="UI_UX/addTaskUI.png" width="200"/>
+<!-- <img src="UI_UX/selectcategories.png" width="200"/> -->
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+--- 
+## What is allTask?
+### alltask is a self management  application witch helps you to manage your personal task and also meetings. 
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Supported Platform 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://img.icons8.com/fluency/96/000000/mac-os.png"/><img src="https://img.icons8.com/color/96/000000/android-os.png"/>
+
+---
+## TechStack
+<p>
+<img src="https://skillicons.dev/icons?i=flutter">
+<img src="https://skillicons.dev/icons?i=django">
+<img src="https://skillicons.dev/icons?i=sqlite">
+</p>
+
+---
+## how to contribute on?
+### you can contribute by pull Request to repository
+### you can also open issue to request feature witch we can add to project
+
+---
+
+## project feature wishlist 
+- Desktop Support
+- WebApplication Support
+- User-Group communication
