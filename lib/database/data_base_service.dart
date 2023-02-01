@@ -5,7 +5,7 @@ class DatabaseService {
   static Database? _db;
   static const int _version = 1;
   static const String _tbname = 'AllTask';
-  static Future<void> initDB() async {
+  static Future<void> initDB() async { 
     if (_db != null) {
       return;
     }
